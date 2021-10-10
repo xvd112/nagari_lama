@@ -84,7 +84,7 @@
                     <li><a class="nav-link scrollto" href="<?= base_url(); ?>/">Home</a></li>
                     <li class="dropdown"><a href="#"><span>Profile Nagari</span> <i class="bi bi-chevron-down"></i></a>
                         <ul>
-                            <li><a href="http://nagari-env.eba-xcvmcifh.us-east-1.elasticbeanstalk.com/web/sejarah">Sejarah Nagari</a></li>
+                            <li><a href="<?= base_url(); ?>/web/sejarah">Sejarah Nagari</a></li>
                             <li><a href="<?= base_url(); ?>/web/visi">Visi & Misi</a></li>
                             <li><a href="<?= base_url(); ?>/web/wilayah">Profile Wilayah</a></li>
                             <li><a href="<?= base_url(); ?>/web/potensi">Potensi Wilayah</a></li>
