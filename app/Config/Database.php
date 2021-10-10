@@ -32,10 +32,10 @@ class Database extends Config
 	 */
 	public $default = [
 		'DSN'      => '',
-		'hostname' => 'localhost',
-		'username' => 'root',
-		'password' => '',
-		'database' => 'nagari',
+		'hostname' => 'aax1lfqfafpeyc.ce1yvi44tmhs.us-east-1.rds.amazonaws.com',
+		'username' => 'admin',
+		'password' => 'admin123',
+		'database' => 'ebdb',
 		'DBDriver' => 'MySQLi',
 		'DBPrefix' => '',
 		'pConnect' => false,
