@@ -74,7 +74,7 @@ class Kint
      *
      * [!] EXAMPLE (works with for phpStorm and RemoteCall Plugin):
      *
-     * Kint::$file_link_format = 'http://localhost:8091/?message=%f:%l';
+     * Kint::$file_link_format = 'http://nagari-env.eba-xcvmcifh.us-east-1.elasticbeanstalk.com//?message=%f:%l';
      */
     public static $file_link_format = '';
 
