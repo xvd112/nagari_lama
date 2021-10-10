@@ -23,7 +23,7 @@ class App extends BaseConfig
 	 *
 	 * @var string
 	 */
-	public $baseURL = 'Testdemosidang-env.eba-qad2xp2g.us-east-1.elasticbeanstalk.com';
+	public $baseURL = 'http://nagari-env.eba-xcvmcifh.us-east-1.elasticbeanstalk.com/';
 
 	/**
 	 * --------------------------------------------------------------------------
