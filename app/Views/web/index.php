@@ -20,7 +20,7 @@
       <?php } ?>
       <?php if ($potensi != NULL) { ?>
         <section style="padding: 40px; background: #f8fcfd;">
-          <h5 align="center"><b>Potensi Wilayah Tanah Datar</b></h5>
+          <h5 align="center"><b>Potensi Wilayah</b></h5>
           <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="carousel">
             <div class="carousel-indicators">
               <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
